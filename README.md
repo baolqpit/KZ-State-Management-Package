@@ -1,4 +1,4 @@
-# My Flutter Package
+# KZ State Management Package
 
 A Flutter package that provides State Management.
 
